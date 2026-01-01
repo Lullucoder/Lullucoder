@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Exploring new tech ideas and building small projects while learning step by step.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly projects where we can learn and grow together.<br><br>🤝 I’m looking for help with  <br>Understanding fundamentals, writing better code, and learning how real systems work.<br><br>🌱 I’m currently learning  <br>Programming, data structures, databases, and more cool concepts.<br><br>💬 Ask me about  <br>Student projects, learning tech from scratch, and exploring tools.<br><br>⚡ Fun fact  <br>I’m a late-night owl who loves learning tech by experimenting and breaking things 😄<br>
+🔭 I’m currently working on Exploring new tech ideas and building small projects while learning step by step.<br><br>👯 I’m looking to collaborate on Beginner-friendly projects where we can learn and grow together.<br><br>🤝 I’m looking for help with Understanding fundamentals, writing better code, and learning how real systems work.<br><br>🌱 I’m currently learning Programming, data structures, databases, and more cool concepts.<br><br>💬 Ask me about Student projects, learning tech from scratch, and exploring tools.<br><br>⚡ Fun fact - I’m a late-night owl who loves learning tech by experimenting and breaking things 😄<br>
 
 
 ## 🌐 Socials:
